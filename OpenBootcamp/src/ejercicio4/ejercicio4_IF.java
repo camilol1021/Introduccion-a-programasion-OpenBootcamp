@@ -14,7 +14,7 @@ public class ejercicio4_IF {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       int numeroIf =0;
+       int numeroIf =-2;
         if (numeroIf>=1) {
             System.out.println("el numero es positivo");
             
